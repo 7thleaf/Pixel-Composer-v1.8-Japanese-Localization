@@ -12,7 +12,7 @@
 
 * `UI.json`（UI テキスト）
 * `words.json`（各種文言）
-* `nodes.json` は **含みません**
+* `nodes.json` は **未着手**
 
 ## 導入方法
 
